@@ -1,0 +1,4 @@
+if 'Hello':
+print('The condition evaluated to True')
+else:
+print('The condition evaluated to False')
