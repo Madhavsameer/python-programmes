@@ -1,0 +1,4 @@
+my_favourite_number = 3
+my_least_favourite_number = 5
+a_neutral_number = 1
+my_favourite_number == 3
