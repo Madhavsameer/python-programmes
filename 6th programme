@@ -1,0 +1,6 @@
+total_students=60
+print("total students",total_students)
+male_students=48
+print("male students",male_students)
+female_students=total_students-male_students
+print("female_students",female_students)
