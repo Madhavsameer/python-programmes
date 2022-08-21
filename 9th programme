@@ -1,0 +1,8 @@
+people_voted_for_Ron = 52496
+print("people voted for Ron",people_voted_for_Ron)
+people_voted_for_John = 44929
+print("people voted for John",people_voted_for_John)
+people_voted_for_Mike = 36824
+print("people voted for Mike",people_voted_for_Mike)
+total_no_of_voters = people_voted_for_Ron+people_voted_for_John+people_voted_for_Mike
+print("total no of voters",total_no_of_voters)
