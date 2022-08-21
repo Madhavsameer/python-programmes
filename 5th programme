@@ -1,0 +1,3 @@
+number='210101120097'
+name='Madhav sameer'
+print('my registration no',number,'and my name is',name)
