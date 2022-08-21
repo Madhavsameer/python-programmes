@@ -1,0 +1,8 @@
+Total_no_of_TV_sets = 21
+print("Total no of TV sets",Total_no_of_TV_sets)
+Total_cost_of_21_TV_sets = 95844
+print("Total cost of 21 TV sets",Total_cost_of_21_TV_sets)
+Cost_of_1_TV_set = Total_cost_of_21_TV_sets/Total_no_of_TV_sets
+print("Cost of 1 TV set",Cost_of_1_TV_set)
+Cost_of_1_radio_set = 1475
+print("Cost of 1 radio set",Cost_of_1_radio_set
