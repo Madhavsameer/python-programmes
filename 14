@@ -1,0 +1,3 @@
+temperature_in_celsius=36
+temperature_in_fahernheit=(temperature_in_celsius*9/5+32)
+print("temperature in fahernheit",temperature_in_fahernheit)
