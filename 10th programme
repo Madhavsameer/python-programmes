@@ -1,0 +1,8 @@
+No_of_total_toys = 96
+price_of_96_toys = 12960
+print("price of 96 toys =",price_of_96_toys)
+price_of_each_toy = price_of_96_toys/No_of_total_toys
+print("price of each toy =",price_of_each_toy)
+the_amount_she_still_left = 1015
+total_amount_Maria_had = price_of_96_toys+the_amount_she_still_left
+print('total amount Maria had $'+ str(total_amount_Maria_had))
