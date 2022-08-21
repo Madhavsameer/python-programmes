@@ -1,0 +1,3 @@
+cost_of_ice_bag = 16.25
+is_ice_bag_expensive = cost_of_ice_bag >=9
+print("is the ice bag expensive?",is_ice_bag_expensive)
