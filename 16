@@ -1,0 +1,4 @@
+favourite_number = 4
+least_favourite_number = 8
+a_even_number = 10
+print("least_favourite")
