@@ -1,0 +1,14 @@
+if today == 'Sunday':
+print("Today is the day of the sun.")
+elif today == 'Monday':
+print("Today is the day of the moon.")
+elif today == 'Tuesday':
+print("Today is the day of Tyr,the god of war.")
+elif today == 'Wednesday':
+print("Today is the day of Odin,the supreme diety.")
+elif today == 'Thrusday':
+print("Today is the day of Thor,the god of thunder.")
+elif today == 'Friday':
+print("Today is the day of Frigga,the goddess of beauty.")
+elif today == 'Saturday':
+print("Today is the day of Saturn,the god of fun and feasting."
