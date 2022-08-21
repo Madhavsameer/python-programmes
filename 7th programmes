@@ -1,0 +1,6 @@
+No_of_total_boxes = 2425
+print("No of total boxes",No_of_total_boxes)
+No_of_pencils_in_the_boxes = 24
+print("No of pencils in the boxes",No_of_pencils_in_the_boxes)
+Total_no_of_pencils = No_of_total_boxes * No_of_pencils_in_the_boxes
+print("Total no of pencils",Total_no_of_pencils)
