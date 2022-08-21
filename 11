@@ -1,0 +1,3 @@
+print("Datatype is No_of_total_toys",type(No_of_total_toys))
+print("Datatype is price_of_96_toys",type(price_of_96_toys))
+print("Datatype is price_of_each_toy",type(price_of_each_toy))
